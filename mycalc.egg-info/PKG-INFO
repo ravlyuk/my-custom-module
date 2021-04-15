@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: mycalc
+Version: 0.0.1
+Summary: A small example package with some arithmetics
+Home-page: https://github.com/ravlyuk/my-custom-module
+Author: Evgeny Ravlyuk
+Author-email: kobtok1@example.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
